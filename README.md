@@ -10,7 +10,7 @@
 > - Leticia Ribeiro Barreto
 > - Susana Leal Dias Ribeiro 
 
-## Projeto final:  
+## Projeto final: :link: 
 
 https://github.com/Nicolesilvaa/Introducao-Dev-Web/assets/68083480/a421b67c-fbe8-4f39-8db1-83153c665693
 
